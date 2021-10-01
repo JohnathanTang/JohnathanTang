@@ -5,6 +5,9 @@
 
 I'm a computer engineer graduate from the University of California, Irvine with an interest in Full-Stack Development. 
 
+####Social
+- 📫 johnathantang1996@gmail.com
+- 📷 j.tvng
 
 ---
 
