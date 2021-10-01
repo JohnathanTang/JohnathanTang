@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/johnathan-tang-452241173/">LinkedIn</a> 
 </p>
 
+I'm a computer engineer graduate from the University of California, Irvine with an interest in Full-Stack Development. 
+
+
 ---
 
 
