@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hi there! I'm Johnathan Tang</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/johnathan-tang-452241173/">LinkedIn</a> 
-  📫 johnathantang1996@gmail.com
-  📷 <a href="https://www.instagram.com/j.tvng/">j.tvng</a>
+  <a 📫 johnathantang1996@gmail.com
+  <a 📷href="https://www.instagram.com/j.tvng/">j.tvng</a>
 </p>
 
 ---
