@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Johnathan Tang</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/johnathan-tang-452241173/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/johnathan-tang-452241173/">LinkedIn</a> 
 </p>
 
 ---
