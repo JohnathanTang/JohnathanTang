@@ -1,9 +1,10 @@
 <h3 align="center">👋 Hi there! I'm Johnathan Tang</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/johnathan-tang-452241173/">LinkedIn</a> 
+ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
 </p>
 
-I'm a computer engineer graduate from the University of California, Irvine with an interest in Full-Stack Development. 
+
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -14,7 +15,7 @@ I'm a computer engineer graduate from the University of California, Irvine with 
 [1]: https://twitter.com/johnathanntang
 [2]: https://www.linkedin.com/in/johnathan-tang-452241173/
 
-
+I'm a computer engineer graduate from the University of California, Irvine with an interest in Full-Stack Development. 
 ---
 
 
