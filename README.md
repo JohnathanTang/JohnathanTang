@@ -1,8 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Johnathan Tang</h3>
-<p align="center">
  You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-</p>
+
 
 
 
